@@ -5,11 +5,11 @@ AmbientOcclusionRadiusScale=1.200000
 MotionBlurQuality=0
 BloomQuality=0
 SquadIncrementalVersion=1
-ResolutionSizeX=1920
-ResolutionSizeY=1080
+ResolutionSizeX=1024
+ResolutionSizeY=768
 LastUserConfirmedResolutionSizeX=1024
 LastUserConfirmedResolutionSizeY=768
-PlayerNamePrefix=""
+PlayerNamePrefix=
 NameTagOpacity=1.000000
 NameTagScale=1.000000
 bShowNameTagText=True
@@ -74,6 +74,7 @@ LensFlareQuality=0
 MasterVolume=0.750000
 AmbientOcclusion=0
 EyeAdaptationQuality=0
+FrameRateLimit=5.000000
 
 [ScalabilityGroups]
 sg.ResolutionQuality=100.000000
@@ -90,5 +91,3 @@ bUseDesiredScreenHeight=False
 
 [ShaderPipelineCache.CacheFile]
 LastOpened=SquadGame
-
-
