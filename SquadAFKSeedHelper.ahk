@@ -2,7 +2,7 @@
 ; Created by Travis Cochran (DiscoveryOV, Bloody Bucket)
 ; Released under GPL-3.0
 
-version = 0.1b
+version = 0.2b
 
 ; Create app folder in Documents
 FileCreateDir, %A_MyDocuments%\SquadAFKSeedHelper\
