@@ -13,6 +13,6 @@
     launchgame:
     run, steam://connect/104.128.58.13:27165
 
-    ; Wait 30 seconds, then minimize Squad
-    Sleep, 60000
+    ; Wait 120 seconds, then minimize Squad
+    Sleep, 120000
     WinMinimize, SquadGame
